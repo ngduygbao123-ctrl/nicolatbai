@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trà Sữa NicoLatBai - CSKH \u0026 Đặt Món",
+  "description": "Website đặt món và trợ lý AI CSKH thông minh dành riêng cho Trà Sữa NicoLatBai. Freeship 3km, menu trà sữa signature, sữa tươi trân châu đường đen và món ăn vặt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
